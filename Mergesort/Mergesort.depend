@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599023826 source:c:\users\edward\desktop\04082020\mergesort\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+
