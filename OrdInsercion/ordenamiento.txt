@@ -1,0 +1,4 @@
+Arreglo sin ordenar :42315
+Total de numeros:5
+Suma de Elementos:15
+Arreglo ordenado :12345

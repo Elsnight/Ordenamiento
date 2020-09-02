@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598766266 source:c:\users\edward\desktop\04082020\ordinsercion\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
