@@ -1,0 +1,13 @@
+Numero de busqueda:2
+Arreglo para buscar :1234567
+ELEMENTO ENCONTRADONumero de busqueda:2
+Arreglo para buscar :1234567
+ELEMENTO ENCONTRADONumero de busqueda:2
+Arreglo para buscar :1234567
+ELEMENTO ENCONTRADONumero de busqueda:2
+Arreglo para buscar :1234567
+ELEMENTO ENCONTRADONumero de busqueda:2
+Arreglo para buscar :1534267
+ELEMENTO NO ENCONTRADONumero de busqueda:2
+Arreglo para buscar :1234567
+ELEMENTO ENCONTRADO
