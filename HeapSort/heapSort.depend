@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600192726 source:c:\users\edward\desktop\04082020\heapsort\main.cpp
+	<iostream>
+	"uno.h"
+	"dos.h"
+
+1600193897 c:\users\edward\desktop\04082020\heapsort\uno.h
+	<iostream>
+
+1600192675 c:\users\edward\desktop\04082020\heapsort\dos.h
+
